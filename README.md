@@ -237,5 +237,5 @@ conda env create -n bayesian --file environment.yaml
 
 # Run
 conda activate bayesian
-jupyter
+jupyter notebook
 ```
