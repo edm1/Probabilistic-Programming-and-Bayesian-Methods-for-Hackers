@@ -227,3 +227,15 @@ Contact the main author, Cam Davidson-Pilon at cam.davidson.pilon@gmail.com or [
 
 
 ![Imgur](http://i.imgur.com/Zb79QZb.png)
+
+
+#### Setup and run
+
+```
+# To install
+conda env create -n bayesian --file environment.yaml
+
+# Run
+conda activate bayesian
+jupyter
+```
